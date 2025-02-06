@@ -5,8 +5,10 @@ La solution que nous proposons répond au défi de la gouvernance et la sécurit
 
 ### Les résultats attendus sont-ils significatifs et mesurables ?
 
-Le projet promet des avancées sur plusieurs aspects : une performance technique optimisée pour des ordinateurs standards, une capacité d'analyse approfondie des documents administratifs, et une amélioration de l'efficacité du travail des agents. 
-
+ Le projet promet des avancées mesurables sur plusieurs aspects : 
+- Un gain de temps pour les agents, grâce à l'accélération de la fouille documentaire
+- Des meilleures capacités de traitement des documents administratifs : (Analyse de conformité réglementaire : traitement de questions nécessitant de confronter les règles locales (arrêts municipaux, cadastres, etc.) avec le droit administratif, assistance juridique pour les démarches
+- Une hausse considérable de la performance énergétique et la sobriété des ressources, grâce à un modèle dizaines de fois plus compact tout en restant performant.
 
 ### L’implémentation du MVP est-elle réaliste ?
 
