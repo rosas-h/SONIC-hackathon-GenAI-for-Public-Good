@@ -1,6 +1,6 @@
 ### La solution répond-elle à un défi clair du service public ?
 
-La solution SONIC répond à un défi majeur et bien documenté du service public français. Face à l'utilisation croissante et non sécurisée de ChatGPT par 25% des agents publics, il existe un besoin urgent d'alternative souveraine. Ce besoin est d'autant plus critique que les collectivités territoriales, représentant près de 35 000 communes et mobilisant 500 000 agents, doivent traiter quotidiennement des documents administratifs complexes. La particularité de SONIC est d'apporter une réponse adaptée à cette réalité terrain, en proposant une solution décentralisée qui ne nécessite pas d'infrastructures lourdes ou d'investissements conséquents.
+La solution que nous proposons répond au défi de la gouvernance et la sécurité dans l'utilisation des IA génératives au sein des services publics (Plus de 25% des agents de services publics utilisent ChatGPT sans autorisation de leur hiérarchie). Ce besoin est d'autant plus critique que les collectivités territoriales, représentant près de 35 000 communes et mobilisant 500 000 agents, doivent traiter quotidiennement des documents administratifs complexes. 
 
 
 ### Les résultats attendus sont-ils significatifs et mesurables ?
